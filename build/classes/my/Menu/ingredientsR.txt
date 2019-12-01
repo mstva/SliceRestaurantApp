@@ -1,0 +1,12 @@
+ingredient, cost, quantity, total cost
+Tomato, 10.0, 5.0/KiloGrams
+Flour, 5.0, 3.0/KiloGrams
+Cucumber, 5.0, 1.0/KiloGrams
+Yeast, 7.0, 2.0/Piece
+Meat, 120.0, 0.5/KiloGrams
+Chicken, 27.0, 1.0/KiloGrams
+Mushroom, 50.0, 2.0/KiloGrams
+Onion, 5.0, 5.0/KiloGrams
+Garlic, 7.0, 3.0/KiloGrams
+Tomato Sauce, 15.0, 2.0/Piece
+Milk, 5.0, 5.0/Cup
